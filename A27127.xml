@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A general epistle to all Friends who are called and gathered of God, called Quakers.</title>
+            <author>Bayly, William, d. 1675.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27127</idno>
+            <idno type="STC">Wing B1527</idno>
+            <idno type="STC">ESTC R25912</idno>
+            <idno type="EEBO-CITATION">09288408</idno>
+            <idno type="OCLC">ocm 09288408</idno>
+            <idno type="VID">42616</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27127)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42616)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1301:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A general epistle to all Friends who are called and gathered of God, called Quakers.</title>
+                  <author>Bayly, William, d. 1675.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W.M.,</publisher>
+                  <pubPlace>[S.l.] :</pubPlace>
+                  <date>[1662]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: W.B.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:42616:1" rendition="simple:additions"/>
+            <head>A GENERAL EPISTLE TO ALL FRIENDS, Who are called and gathered of God, called QVAKERS.</head>
+            <opener>
+               <salute>FRIENDS,</salute>
+            </opener>
+            <p>LIve in the life and power and wiſdome of God every where, then you live in Chriſt the Saviour, the Redeemer, the leader of his people Iſrael the Son of God, who came not to do his own will; for nothing but life and power, and wiſdome ſhall ſtand and be a hiding place in the ter<g ref="char:EOLhyphen"/>rible day at hand; Therefore feel it, poſſeſs it, enjoy it all ye who profeſs your ſelves to be followers of Chriſt, and remember that a name to live is not enough or to be counted a follower of the Lamb; but feel and poſ<g ref="char:EOLhyphen"/>ſeſs the Lambs life which takes away the ſin, that bears the Iniquity, for God is raiſing his own ſeed into dominion and victory over all, and his kingdome which hath no end, which ſhall aboliſh all other Kingdomes; feel him born whoſe right it is to raign upon whoſe ſhoulders the Govern<g ref="char:EOLhyphen"/>ment muſt be, Chriſt the power of God and the wiſdome of God, the lea<g ref="char:EOLhyphen"/>der and preſerver of his people, know him all people, who profeſs his name in words and appearance in you, or elſe you are Reprobates, fooliſh Vir<g ref="char:EOLhyphen"/>gins, caſt-awaies, without life, without power, without wiſdome from above, that's pure and peaceable: ſo dwell in the dread and power, life and wiſdome of God, that you may be found in Chriſt Ieſus the Saviour, in whom the Father is well pleaſed, that by him you may be lead, gui<g ref="char:EOLhyphen"/>ded and preſerved to Gods glory, and be the wiſe Virgins poſſeſſing the
+<pb n="2" facs="tcp:42616:2"/>Oyle, which makes glad the ſoul, the ſubſtance, the Light, life and pow<g ref="char:EOLhyphen"/>er of God, in which alone is ſalvation and not in another, for the day of tryal is come, that nothing will ſtand but life it ſelf, Therefore every one to his Tent, dwelling in the retiredneſs, in the ſtilneſs, in the Patience, feeling the life of God, the undaunted ſpirit that lifts up a ſtandard when the enemy comes like a Flood, and be not deceived with dreams or a ſpirit of ſlumber, but be awakened and feel the power that raiſeth the dead and quickneth up to God, and keeps in the awakenedneſs, your hearts open unto him your underſtandings cleared by the thundering power of the Lord God, which cleares all, which drives away the Clouds and cau<g ref="char:EOLhyphen"/>ſes the ſhowers to deſcend, to the refreſhing of the ſeed immortal; in which alone the bleſſing is, to whom the mercyes are, and with whom the Co<g ref="char:EOLhyphen"/>venant is and promiſes are Amen for ever.</p>
+            <p>So all feel and poſſeſs the pure power of the eternal God, then you feel the Covenant and live in the Covenant, then you live with God as <hi>E<g ref="char:EOLhyphen"/>noch</hi> did, in the new and living way which abides for ever to all Genera<g ref="char:EOLhyphen"/>tions; Chriſt the ſeed which bruiſeth the Serpents head, and reconciles to God the Father of it: So all friends who feel the power of God, live in it, dwell in it, then you dwell in Gods Covenant which he made with <hi>Abraham</hi> and his ſeed for ever, then you know the words of God in the mouth of the ſeed, which never goes out, but is in the Covenant, in the power Chriſt for ever, who is come to deſtroy the works of the Divel, to ſmite the earth with the rod of his mouth, and to ſlay the wicked with the breath of his lips, to whom all judgement is committed in Heaven and Earth, to whom every knee muſt bow, of things in Heaven and things in earth, this is the higher power let every ſoul be ſubject to it, guided by it, poſſeſs it, live in it, then you know Chriſt as the Wife the Husband, then you know the Church that is in God the piller and ground of truth; but who are from the power of God in themſelves are from Chriſt are from the new Covenant, are from the wiſdome of God, are from the leader are from the Redeemer and Saviour, a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d not Mem<g ref="char:EOLhyphen"/>bers of his body, ſuch know not the Redeemer to live, ſuch know not the Bride the Lambs Wife, the Kings daughter which is All glorious with<g ref="char:EOLhyphen"/>in, ſuch know not the Croſs of Chriſt, for the Croſs of Chriſt is the power of God, which croſeth, bindeth and limiteth the ſelf will and wandering deſires of the earthly man, ſuch are the fooliſh Virgins, with the Lamps, a form, without the Oyle, the power the anointing which makes the face to ſhine, gives boldneſs, ſtrength, joy, peace, courage and dominion over all the contrary</p>
+            <pb n="3" facs="tcp:42616:2"/>
+            <p>Now is the day come which ſhall manifeſt all things; who are in the power and who are out of the power, for who are in the power are in Chriſt the Saviour, the Covenant of God, and who are out of the power are out of Gods Covenant, in which all things are good and bleſſed, and ſo are yet in the fall, not raiſed by the power, but in the Curſe and the ground of it, ſo read within, with the light of Gods witneſs and ſee the ground in which ye now ſtand, whether it be in Gods Covenant the power and life and wiſdome from above, or whether out of it, in the alienation in the lower power the fall, out of Gods Covenant and life, which giveth domi<g ref="char:EOLhyphen"/>nion over all the world, death, hell and the Grave, and the darkneſs and powers of it.</p>
+            <p>So all who dwell in Gods Covenant, you dwell in that which he hath remembred, which was with <hi>Abraham</hi> his friend, (who rejoyced to ſee his day) and with <hi>Iſack</hi> and <hi>Iacob</hi> in whom the ſeed was called, for whoſe ſake he will plead with all fleſh, and work wonderful things for the deliverance of his choſen remnant; ſo feel that which makes you valiant for the truth upon earth, read within, upon the earth let the truth be, and you in it valiant and bold, giving up all in the will of the eternal God for he loveth a chearful giver, and in ſo doing you will feel (in the ſtilneſs) bleſſings and reſt with him in the midſt of trials and Tribu<g ref="char:EOLhyphen"/>lations, for by his outſtretched Arme is he gathering his ſeed from the four corners of the earth, and will bring them into the holy land which is prepared a reſt for them that love him: So all friends dwell in the truth it ſelf, in Gods power and wiſdome and fear which will keep the mind ſtaid and ſtable, in dominion over all the fear and threats of men, and out of all the ſnares and temptations of the Divel, and the world, in him which was before the fears, the ſnares, the world, the Divel and the perſecuting ſpirit was and will be when it ſhall be no more for ever, in which your ſouls will rejoyce and prayſe the Lord who hath called you out of darkneſs into his marvellous light in which is no occaſion of ſtum<g ref="char:EOLhyphen"/>bling, but keeps in the pure feeling and diſcerning moderation and ſet<g ref="char:EOLhyphen"/>ledneſſe, above the darke Mountains where we feel him dayly Gods de<g ref="char:EOLhyphen"/>light, before the Hills, the Mountains or the foundations of the earth were laid, in whom are all the treaſures of life, wiſdome and knowledge, ſo all friends dwell in him, and lye down in him where none can make you afraid.</p>
+            <p>And keep your meetings every where, and wait in the dread of God, and be zealous for his name and truth, and live in the retiredneſs in which his terrible power ariſeth in his lambs and babes, to guide and pre<g ref="char:EOLhyphen"/>ſerve
+<pb n="4" facs="tcp:42616:3"/>them in Dominion and life over all, to his glory and their com<g ref="char:EOLhyphen"/>fort and pure refreſhment, in his everlaſting Covenant which changeth not, and keep out of all extremes to the right hand or left, but judge it, and rule and reigne with Chriſt the unchangeable Covenant of God, whoſe kingdome is not of this world, whoſe Throne is Heaven and the earth his footſtool, here you dwell in the elect which cannot be deceived nor overcome.</p>
+            <p>So all live in the power the love of God, out of all rents, ſtrife, preju<g ref="char:EOLhyphen"/>dice and contentions in Chriſt the Covenant, the holy Mountain where there is no hurting nor deſtroying, but dominion over all changeables known in the free life and ſeed which hath no end, of which God is Fa<g ref="char:EOLhyphen"/>ther which changeth not, and out of covetouſneſſe which is Idolatry and ſlaviſh fears of tryals and want therein, and out of careleſneſſe and ex<g ref="char:EOLhyphen"/>ceſſe in the moderation and wiſdome of God, and faſhion not your ſelves like unto them that know not God, but know and follow him that is not of this world, whoſe garment is without ſeam or rent, woven from the top to the bottome, whoſe life and wiſdome and doctrine the world cannot re<g ref="char:EOLhyphen"/>ceive: So hears the Croſſe known to the luſts of the fleſh, the luſts of the<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y, and the pride of life, which is not of the Father but of the world, ſo all in the Croſſe dwell (which crucifies to the world and the nature, ſpirit and wayes of it) in which the ſaints glory is, and peace which gives to feel over all the earth and unclean ſpirits in Gods kingdome for ever to reign.</p>
+            <p>So in his eternal power and dominion, life wiſdome and peace, the Lord God Almighty keep and preſerve all his upright hearted and ten<g ref="char:EOLhyphen"/>der Lambs unto himſelf pure and ſpotleſs unto the end <hi>Amen.</hi>
+            </p>
+            <p>This i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a faithful Teſtimony and viſitation of Gods ſpirit unto all who profeſſe his name in this notable day of tryal, in which he will make a final ſeperation between the two ſeeds, in which none ſhall abide covered but ſuch as are covered with the ſpirit of the Lord.</p>
+            <closer>
+               <signed>
+                  <hi>By one whoſe ſoul travels for</hi> Sion <hi>ſake, W. B.....</hi>
+               </signed>
+               <dateline>
+                  <hi>From the White Lyon Priſon in</hi> Southwark <date>
+                     <hi>the 9th Moneth 62.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed</hi> for W. M.</p>
+            <pb facs="tcp:42616:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
